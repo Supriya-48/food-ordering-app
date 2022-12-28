@@ -3,7 +3,7 @@ import logo from '../assets/logo.png';
 import { Link } from 'react-router-dom';
 import '../Styles/Navbar.css'
 import ReorderIcon from '@mui/icons-material/Reorder';
-
+import { GiFoodTruck } from "react-icons/gi";
 function Navbar(){
 
     const [openLinks, setOpenLinks] = useState(false);
