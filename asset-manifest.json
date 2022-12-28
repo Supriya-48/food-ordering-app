@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/food-ordering-app/static/css/main.5b3caba3.css",
+    "main.js": "/food-ordering-app/static/js/main.f3b4d413.js",
+    "static/media/photo.jpg": "/food-ordering-app/static/media/photo.a6566ad9e9ccd725ae8d.jpg",
+    "static/media/contact.jpeg": "/food-ordering-app/static/media/contact.ec829b38ca93cfbb5850.jpeg",
+    "static/media/bg5.jpg": "/food-ordering-app/static/media/bg5.e94f195b232c4c60c1e7.jpg",
+    "static/media/gujarati.jpg": "/food-ordering-app/static/media/gujarati.262984d82ecbfdad0279.jpg",
+    "static/media/chole.jpg": "/food-ordering-app/static/media/chole.a295342d5ac3cc53948a.jpg",
+    "static/media/paneer.jpeg": "/food-ordering-app/static/media/paneer.45c731a2191840c505ec.jpeg",
+    "static/media/idli.jpg": "/food-ordering-app/static/media/idli.afebfe70b63cddb16664.jpg",
+    "static/media/rajastani.jpeg": "/food-ordering-app/static/media/rajastani.14341db4d503e6a5d38d.jpeg",
+    "static/media/dosa.jpeg": "/food-ordering-app/static/media/dosa.51488da71980703a16dc.jpeg",
+    "static/media/logo.png": "/food-ordering-app/static/media/logo.8312c6a46e73f4da7784.png",
+    "index.html": "/food-ordering-app/index.html",
+    "main.5b3caba3.css.map": "/food-ordering-app/static/css/main.5b3caba3.css.map",
+    "main.f3b4d413.js.map": "/food-ordering-app/static/js/main.f3b4d413.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5b3caba3.css",
+    "static/js/main.f3b4d413.js"
+  ]
+}
